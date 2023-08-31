@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.78d8eee3.css",
-    "main.js": "/static/js/main.d93c9bf4.js",
+    "main.js": "/static/js/main.4f30d5be.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/KUMKUM_DUTTA_RESUME.pdf": "/static/media/KUMKUM_DUTTA_RESUME.9c4a70f8eabaa32a6a29.pdf",
     "index.html": "/index.html",
     "main.78d8eee3.css.map": "/static/css/main.78d8eee3.css.map",
-    "main.d93c9bf4.js.map": "/static/js/main.d93c9bf4.js.map",
+    "main.4f30d5be.js.map": "/static/js/main.4f30d5be.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78d8eee3.css",
-    "static/js/main.d93c9bf4.js"
+    "static/js/main.4f30d5be.js"
   ]
 }
